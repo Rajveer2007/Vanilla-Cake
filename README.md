@@ -1,1 +1,2 @@
-# Vanilla-Cake
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
